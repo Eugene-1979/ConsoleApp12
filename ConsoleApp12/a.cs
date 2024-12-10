@@ -8,6 +8,7 @@ namespace ConsoleApp12
     {
     internal class a
         {
-        1
+        //add
+        public void F() { }
         }
     }
